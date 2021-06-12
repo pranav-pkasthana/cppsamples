@@ -1,2 +1,4 @@
 bin
 obj
+/make/vc142/cppdll/*.user
+/make/vc142/loaddll/*.user
